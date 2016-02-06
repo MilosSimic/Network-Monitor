@@ -1,0 +1,18 @@
+C:\Users\Milos\Documents\Visual Studio 2010\Projects\NetworkConnection\NetworkConnection\obj\x86\Debug\NetworkConnection.Form1.resources
+C:\Users\Milos\Documents\Visual Studio 2010\Projects\NetworkConnection\NetworkConnection\obj\x86\Debug\NetworkConnection.Properties.Resources.resources
+C:\Users\Milos\Documents\Visual Studio 2010\Projects\NetworkConnection\NetworkConnection\obj\x86\Debug\NetworkConnection.csproj.GenerateResource.Cache
+C:\Users\Milos\Documents\Visual Studio 2010\Projects\NetworkConnection\NetworkConnection\bin\Debug\NetworkConnection.exe
+C:\Users\Milos\Documents\Visual Studio 2010\Projects\NetworkConnection\NetworkConnection\bin\Debug\NetworkConnection.pdb
+C:\Users\Milos\Documents\Visual Studio 2010\Projects\NetworkConnection\NetworkConnection\bin\Debug\ZedGraph.dll
+C:\Users\Milos\Documents\Visual Studio 2010\Projects\NetworkConnection\NetworkConnection\obj\x86\Debug\NetworkConnection.exe
+C:\Users\Milos\Documents\Visual Studio 2010\Projects\NetworkConnection\NetworkConnection\obj\x86\Debug\NetworkConnection.pdb
+C:\Users\Milos\Documents\Visual Studio 2010\Projects\NetworkConnection\NetworkConnection\obj\x86\Debug\NetworkConnection.csprojResolveAssemblyReference.cache
+C:\Users\Milos\Desktop\NetworkConnection\NetworkConnection\obj\x86\Debug\NetworkConnection.exe
+C:\Users\Milos\Desktop\NetworkConnection\NetworkConnection\obj\x86\Debug\NetworkConnection.pdb
+C:\Users\Milos\Desktop\NetworkConnection\NetworkConnection\bin\Debug\NetworkConnection.exe
+C:\Users\Milos\Desktop\NetworkConnection\NetworkConnection\bin\Debug\NetworkConnection.pdb
+C:\Users\Milos\Desktop\NetworkConnection\NetworkConnection\bin\Debug\ZedGraph.dll
+C:\Users\Milos\Desktop\NetworkConnection\NetworkConnection\obj\x86\Debug\NetworkConnection.csprojResolveAssemblyReference.cache
+C:\Users\Milos\Desktop\NetworkConnection\NetworkConnection\obj\x86\Debug\NetworkConnection.Form1.resources
+C:\Users\Milos\Desktop\NetworkConnection\NetworkConnection\obj\x86\Debug\NetworkConnection.Properties.Resources.resources
+C:\Users\Milos\Desktop\NetworkConnection\NetworkConnection\obj\x86\Debug\NetworkConnection.csproj.GenerateResource.Cache
